@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hello, I'm Amin Azarpey, a passionate and disciplined front-end developer based in Tehran, Iran. Currently working at Tobank, I specialize in Angular and have experience with React, NestJS, and Next.js. I'm an enthusiastic supporter of remote work, enabling me to collaborate with teams worldwide.</h2>
+<h2 align="left">Hello, I'm Amin Azarpey, a passionate and disciplined front-end developer.I specialize in Angular and have experience with React, NestJS, and Next.js. I'm an enthusiastic supporter of remote work, enabling me to collaborate with teams worldwide.</h2>
 
 <p align="left">I believe in the power of code to create impactful and innovative solutions. My journey as a developer is driven by a strong motivation to continuously learn and improve. I'm always ready to take on new challenges and contribute to exciting projects.</p>
 
