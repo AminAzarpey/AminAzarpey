@@ -4,8 +4,6 @@
 
 <p align="left">I believe in the power of code to create impactful and innovative solutions. My journey as a developer is driven by a strong motivation to continuously learn and improve. I'm always ready to take on new challenges and contribute to exciting projects.</p>
 
-<p align="left">"In the world of programming, just like in Gotham, we rise by lifting others." - Inspired by Batman</p>
-
 ###
 
 <div align="center">
@@ -13,7 +11,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS logo" />
+  <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/312/full/nestjslogo.png" height="40" alt="NestJS logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
   <img width="12" />
@@ -31,11 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" height="40" alt="RxJS logo" />
 </div>
 
 ###
@@ -44,22 +38,38 @@
   <a href="https://www.linkedin.com/in/amin-azarpey-60a067217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn logo" />
   </a>
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="28" alt="Outlook logo" />
+  <a href="mailto:aminazarpey@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="28" alt="Outlook logo" />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/3ohzdQ1IynzclJldUQ/giphy.gif" alt="Batman gif" />
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazUzaGlmYnNhbGNycXpoZTlzNjZkbWFrbzBnaThnOGhodmZkNjQ0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C7RCCFdaixA3u/giphy.gif" alt="Batman gif" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Metal-Bat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Metal-Bat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Metal-Bat&theme=dracula&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false&order=3" height="150" alt="trophy graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Metal-Bat&bg_color=282A36&color=00FF00&line=FF0000&point=FFFFFF&area=true&hide_border=false&order=4" height="300" alt="activity graph" />
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+    <div>
+      <h3 align="center">Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AminAzarpey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
+    </div>
+    <div>
+      <h3 align="center">GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=AminAzarpey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+    </div>
+    <div>
+      <h3 align="center">Developer Stats</h3>
+      <img src="https://github-profile-trophy.vercel.app/?username=AminAzarpey&theme=dark&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+    </div>
+    <div>
+      <h3 align="center">Activity Graph</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AminAzarpey&theme=react-dark" height="300" alt="activity graph" />
+    </div>
+  </div>
 </div>
 
 ###
