@@ -1,8 +1,8 @@
 # Hey there! I'm Amin Azarpey 👨‍💻✨
 
-A **Front-end Developer** passionate about **Angular**, **React**, and **Next.js**! I love writing clean code, collaborating with amazing people, and building cool web apps that make a difference. 🎯
+A **Front-end Developer and Software Engineer** passionate about **Angular**, **React**, and **Next.js**! I love writing clean code, collaborating with amazing people, and building cool web apps that make a difference. 🎯
 
-Though my GitHub might look a little empty right now, **I’m coding and learning every day**—so stay tuned! 🚀
+I’m coding and learning every day🚀
 
 ---
 
