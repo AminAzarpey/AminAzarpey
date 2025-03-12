@@ -1,79 +1,72 @@
-<br clear="both">
+# Hey there! I'm Amin Azarpey 👨‍💻✨
 
-<h2 align="left">Hello, I'm Amin Azarpey, a passionate and disciplined front-end developer.I specialize in Angular and have experience with React, NestJS, and Next.js. I'm an enthusiastic supporter of remote work, enabling me to collaborate with teams worldwide.</h2>
+A **Front-end Developer** passionate about **Angular**, **React**, and **Next.js**! I love writing clean code, collaborating with amazing people, and building cool web apps that make a difference. 🎯
 
-<p align="left">I believe in the power of code to create impactful and innovative solutions. My journey as a developer is driven by a strong motivation to continuously learn and improve. I'm always ready to take on new challenges and contribute to exciting projects.</p>
+Though my GitHub might look a little empty right now, **I’m coding and learning every day**—so stay tuned! 🚀
 
-###
+---
+
+## 🛠️ Technologies I Use
+
+### Here are the tools I work with:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
   <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/312/full/nestjslogo.png" height="40" alt="NestJS logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" height="40" alt="RxJS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ngrx/ngrx-original.svg" height="40" alt="NgRx logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="Webpack logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobexd/adobexd-plain.svg" height="40" alt="Adobe XD logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nx/nx-original.svg" height="40" alt="Nx Workspace logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-original.svg" height="40" alt="CircleCI logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elastic/elastic-original.svg" height="40" alt="Elastic logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="40" alt="D3.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leaflet/leaflet-original.svg" height="40" alt="Leaflet logo" />
 </div>
 
-###
+---
+
+## 🚀 My GitHub Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/amin-azarpey-60a067217/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:aminazarpey@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="28" alt="Outlook logo" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AminAzarpey&show_icons=true&theme=radical&hide_border=true" alt="Amin's GitHub Stats" height="150"/>
 </div>
-
-###
 
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazUzaGlmYnNhbGNycXpoZTlzNjZkbWFrbzBnaThnOGhodmZkNjQ0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C7RCCFdaixA3u/giphy.gif" alt="Batman gif" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AminAzarpey&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="150"/>
 </div>
 
-###
+---
+
+## 🦇 Fun Fact: I’m a Batman fan! 💥
 
 <div align="center">
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
-    <div>
-      <h3 align="center">Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AminAzarpey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
-    </div>
-    <div>
-      <h3 align="center">GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=AminAzarpey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-    </div>
-    <div>
-      <h3 align="center">Developer Stats</h3>
-      <img src="https://github-profile-trophy.vercel.app/?username=AminAzarpey&theme=dark&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
-    </div>
-    <div>
-      <h3 align="center">Activity Graph</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AminAzarpey&theme=react-dark" height="300" alt="activity graph" />
-    </div>
-  </div>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazUzaGlmYnNhbGNycXpoZTlzNjZkbWFrbzBnaThnOGhodmZkNjQ0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C7RCCFdaixA3u/giphy.gif" alt="Batman gif" height="200"/>
 </div>
 
-###
+---
 
-<div align="center">
-  <p>"In the world of programming, just like in Gotham, we rise by lifting others." - Inspired by Batman</p>
-</div>
+## 📬 Let’s Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/amin-azarpey-60a067217/)
+- [Email](mailto:aminazarpey@gmail.com)
+
+---
+
+> "In the world of programming, just like in Gotham, we rise by lifting others." - Inspired by Batman 🦇
+
