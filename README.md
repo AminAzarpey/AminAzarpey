@@ -1,8 +1,17 @@
-# Hey there! I'm Amin Azarpey 👨‍💻✨
+# Hello! I'm Amin Azarpey 👨‍💻💡
 
-A **Front-end Developer and Software Engineer** passionate about **Angular**, **React**, and **Next.js**! I love writing clean code, collaborating with amazing people, and building cool web apps that make a difference. 🎯
+I’m a **Software Engineer** with a passion for building innovative solutions and **creating seamless user experiences**. My core strengths are in **front-end development** with **Angular**, **React**, and **Next.js**, but I’m always diving into new technologies and exploring ways to optimize performance.
 
-I’m coding and learning every day🚀
+When I’m not coding, you’ll find me collaborating with amazing teams or geeking out over Batman 🦇—because just like the Dark Knight, I believe in constantly leveling up my skills, tackling challenges, and helping others rise to the occasion. 💥
+
+---
+
+## 🚀 What I Do
+
+- **Build & Architect**: I design and implement scalable, high-performance web applications using the latest technologies.
+- **Collaborate**: I love working with cross-functional teams, sharing knowledge, and learning together.
+- **Optimize**: From reducing bundle sizes to improving load times, I'm all about making the web faster, smoother, and more accessible.
+- **Mentor**: As a Senior Engineer, I guide and mentor junior developers, helping them grow and fostering a culture of excellence.
 
 ---
 
@@ -44,16 +53,31 @@ I’m coding and learning every day🚀
 ## 🚀 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AminAzarpey&show_icons=true&theme=radical&hide_border=true" alt="Amin's GitHub Stats" height="150"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AminAzarpey&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="150"/>
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+    <div>
+      <h3 align="center">GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=AminAzarpey&show_icons=true&theme=radical&hide_border=true" height="150"/>
+    </div>
+    <div>
+      <h3 align="center">Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AminAzarpey&layout=compact&theme=radical&hide_border=true" height="150"/>
+    </div>
+    <div>
+      <h3 align="center">Trophy</h3>
+      <img src="https://github-profile-trophy.vercel.app/?username=AminAzarpey&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false" height="150"/>
+    </div>
+    <div>
+      <h3 align="center">Activity Graph</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AminAzarpey&theme=react-dark" height="300"/>
+    </div>
+  </div>
 </div>
 
 ---
 
 ## 🦇 Fun Fact: I’m a Batman fan! 💥
+
+Just like **Batman**, I believe in the power of collaboration and constantly leveling up. Here's a little tribute to the Dark Knight: 
 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazUzaGlmYnNhbGNycXpoZTlzNjZkbWFrbzBnaThnOGhodmZkNjQ0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C7RCCFdaixA3u/giphy.gif" alt="Batman gif" height="200"/>
