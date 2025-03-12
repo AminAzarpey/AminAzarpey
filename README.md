@@ -51,6 +51,16 @@ When I’m not coding, you’ll find me collaborating with amazing teams or geek
 ---
 
 ## 🚀 My GitHub Stats
+## 🚀 My GitHub Stats
+
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=AminAzarpey&show_icons=true&theme=radical&hide_border=true" height="150"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AminAzarpey&layout=compact&theme=radical&hide_border=true" height="150"/> |
+
+| Trophy | Activity Graph |
+|--------|----------------|
+| <img src="https://github-profile-trophy.vercel.app/?username=AminAzarpey&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false" height="150"/> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=AminAzarpey&theme=react-dark" height="300"/> |
+
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <div style="width: 45%; margin: 10px;">
