@@ -20,9 +20,9 @@ When I’m not coding, you’ll find me collaborating with amazing teams or geek
 ### Here are the tools I work with:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/312/full/nestjslogo.png" height="40" alt="NestJS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
@@ -38,23 +38,20 @@ When I’m not coding, you’ll find me collaborating with amazing teams or geek
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="Webpack logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobexd/adobexd-plain.svg" height="40" alt="Adobe XD logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nx/nx-original.svg" height="40" alt="Nx Workspace logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-original.svg" height="40" alt="CircleCI logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elastic/elastic-original.svg" height="40" alt="Elastic logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="40" alt="D3.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leaflet/leaflet-original.svg" height="40" alt="Leaflet logo" />
+
 </div>
 
 ---
 
 ## 🚀 My GitHub Stats
 
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=AminAzarpey&show_icons=true&theme=radical&hide_border=true" height="150"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AminAzarpey&layout=compact&theme=radical&hide_border=true" height="150"/> |
+| GitHub Stats | Top Languages | Most Commits |
+|--------------|---------------|--------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=AminAzarpey&show_icons=true&theme=radical&hide_border=true" height="150"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AminAzarpey&layout=compact&theme=radical&hide_border=true" height="150"/> | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AminAzarpey&layout=compact&theme=radical&hide_border=true" height="150"/> |
 
 | Trophy | Activity Graph |
 |--------|----------------|
@@ -63,9 +60,9 @@ When I’m not coding, you’ll find me collaborating with amazing teams or geek
 
 ---
 
-## 🦇 Fun Fact: I’m a Batman fan! 💥
+## 🦇 I Come Just Like Batman !💥
 
-Just like **Batman**, I believe in the power of collaboration and constantly leveling up. Here's a little tribute to the Dark Knight: 
+> "In the world of programming, just like in Gotham, we rise by lifting others." - Inspired by Batman 🦇
 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazUzaGlmYnNhbGNycXpoZTlzNjZkbWFrbzBnaThnOGhodmZkNjQ0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C7RCCFdaixA3u/giphy.gif" alt="Batman gif" height="200"/>
@@ -78,7 +75,7 @@ Just like **Batman**, I believe in the power of collaboration and constantly lev
 - [LinkedIn](https://www.linkedin.com/in/amin-azarpey-60a067217/)
 - [Email](mailto:aminazarpey@gmail.com)
 
----
 
-> "In the world of programming, just like in Gotham, we rise by lifting others." - Inspired by Batman 🦇
+
+
 
